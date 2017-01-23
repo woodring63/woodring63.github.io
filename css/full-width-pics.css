@@ -16,6 +16,19 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+.topnav {
+    font-size: 14px; 
+}
 
 .image-bg-fluid-height {
 	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
